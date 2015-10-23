@@ -18,19 +18,20 @@
     color: #cad8dd;
 }
 .portfolio{
-    font-family: Verdana;
+    font-family: 'Oxygen',sans-serif;
     margin-top:30px;
     padding-top:10px;
 
     background-color: #e9e9ed;
     color: #373738;
 }
-h3.portfolio{letter-spacing:3px;}
+div h3.portfolio{font-family:Calibri,sans-serif;
+    letter-spacing:3px;}
 
 .resume{
-    font-family: Calibri;
+    font-family: 'Oxygen',sans-serif;
     margin-top:30px;
-    letter-spacing:1px;
+    letter-spacing:2px;
     background-color: #e9e9ed;
     color: #373738;
 }
