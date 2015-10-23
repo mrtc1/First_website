@@ -1,6 +1,6 @@
 .navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
@@ -13,11 +13,36 @@
     color: #2d2d2e !important;
 }
 .stopka{
-margin-top:70px;
+
     background-color: #57575b;
     color: #cad8dd;
 }
-.container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
+.portfolio{
+    font-family: Verdana;
+    margin-top:30px;
+    padding-top:10px;
+
+    background-color: #e9e9ed;
+    color: #373738;
 }
+h3.portfolio{letter-spacing:3px;}
+
+.resume{
+    font-family: Calibri;
+    margin-top:30px;
+    letter-spacing:1px;
+    background-color: #e9e9ed;
+    color: #373738;
+}
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.row{
+    margin-top: 30px;
+
+    padding: 30px;
+}
+img{padding: 10px;
+}
+/*li.active {}*/
