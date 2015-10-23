@@ -1,8 +1,17 @@
-img.malutki {
-    height:20px;
-    width:20px;
+.jumbotron {
+    margin-top: 70px;
+    background:url("img/marta.jpg") left center;
+    color:#e9e9ed;
+    padding-top:280px;
+    background-size:cover;
+
 }
-.navbar {
+
+div.social{
+    display:inline-block;
+}
+
+.navbar{
     padding-top: 10px;
     padding-bottom: 10px;
     border: 0;
@@ -10,9 +19,13 @@ img.malutki {
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 3px;
-    background-color: #cad8dd;
+    background-color: #5ea7b7;
+    color: #f2f2f9;
 }
-
+.navbar-nav li a {
+    color: #f3f3f8 !important;
+}
+.navbar-brand { color: #f3f3f8 !important;}
 .navbar-nav li a:hover {
     color: #2d2d2e !important;
 }
@@ -39,9 +52,15 @@ div h3.portfolio{font-family:Calibri,sans-serif;
     background-color: #e9e9ed;
     color: #373738;
 }
+div.jumbotron.container-fluid {
+    position: relative;
+
+
+}
 .container-fluid {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    position: relative;
+    padding-top: 40px;
+padding-bottom: 40px;
 }
 .row{
     margin-top: 30px;
