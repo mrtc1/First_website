@@ -3,9 +3,7 @@
     background:url("img/marta.jpg") center center;
     color:#e9e9ed;
     padding-top:300px;
-
     background-size:cover;
-
 }
 
 div.social{
@@ -23,31 +21,48 @@ div.social{
     background-color: #5ea7b7;
     color: #f2f2f9;
 }
+
 .navbar-nav li a {
     color: #f3f3f8 !important;
 }
-a.aktywny {
-    color: #2d2d2e !important;
+/*.aktywny .myNavbar div div ul li {*/
+    /*color: #2d2d2e !important;*/
+/*}*/
+.navbar-brand {
+    color: #f3f3f8 !important;
 }
-.navbar-brand { color: #f3f3f8 !important;}
+
 .navbar-nav li a:hover {
     color: #2d2d2e !important;
 }
-.stopka{
 
+.stopka{
     background-color: #57575b;
     color: #cad8dd;
 }
+
+.stopka a {
+    text-decoration: none;
+    color:#5ea7b7;
+}
+
+.stopka a:hover {
+    text-decoration: none;
+    color: #4c7f8f;
+}
+
 .portfolio{
     font-family: 'Oxygen',sans-serif;
     margin-top:30px;
     padding-top:10px;
-
     background-color: #f8f8fc;
     color: #373738;
 }
-div h3.portfolio{font-family:Calibri,sans-serif;
-    letter-spacing:3px;}
+
+div h3.portfolio{
+    font-family:Calibri,sans-serif;
+    letter-spacing:3px;
+}
 
 .resume{
     font-family: 'Oxygen',sans-serif;
@@ -56,21 +71,23 @@ div h3.portfolio{font-family:Calibri,sans-serif;
     background-color: #e9e9ed;
     color: #373738;
 }
+
 div.jumbotron.container-fluid {
     position: relative;
-
-
 }
+
 .container-fluid {
     position: relative;
     padding-top: 40px;
 padding-bottom: 40px;
 }
+
 .row{
     margin-top: 30px;
-
     padding: 30px;
 }
-img{padding: 10px;
+
+img{
+    padding: 10px;
 }
 /*li.active {}*/
