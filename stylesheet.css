@@ -1,9 +1,9 @@
 .jumbotron {
     margin-top: 70px;
-    background:url("img/marta.jpg") left center;
+    background:url("img/marta.jpg") center center;
     color:#e9e9ed;
-    padding-top:280px;
-    background-size:cover;
+    padding-top:300px;
+    background-repeat: no-repeat;
 
 }
 
@@ -24,6 +24,9 @@ div.social{
 }
 .navbar-nav li a {
     color: #f3f3f8 !important;
+}
+a.aktywny {
+    color: #2d2d2e !important;
 }
 .navbar-brand { color: #f3f3f8 !important;}
 .navbar-nav li a:hover {
