@@ -1,0 +1,23 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 3px;
+    background-color: #cad8dd;
+}
+
+.navbar-nav li a:hover {
+    color: #2d2d2e !important;
+}
+.stopka{
+margin-top:70px;
+    background-color: #57575b;
+    color: #cad8dd;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
