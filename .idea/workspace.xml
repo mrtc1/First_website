@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="020c1e62-1b06-4399-b376-2bef198e5587" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheet.css" />
     </list>
     <ignored path="portfolioHTML.iws" />
     <ignored path=".idea/workspace.xml" />
