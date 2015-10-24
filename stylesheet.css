@@ -23,15 +23,14 @@ div.social{
 }
 
 .navbar-nav li a {
-    color: #f3f3f8 !important;
+    color: #57575b !important;
 }
-/*.aktywny .myNavbar div div ul li {*/
-    /*color: #2d2d2e !important;*/
-/*}*/
+
 .navbar-brand {
     color: #f3f3f8 !important;
 }
 
+}
 .navbar-nav li a:hover {
     color: #2d2d2e !important;
 }
@@ -81,9 +80,6 @@ div h3.portfolio{
     color: #373738;
 }
 
-/*div.jumbotron.container-fluid {*/
-    /*position: relative;*/
-/*}*/
 
 .container-fluid {
     position: relative;
@@ -101,4 +97,3 @@ h4 {
 img{
     padding: 10px;
 }
-/*li.active {}*/
