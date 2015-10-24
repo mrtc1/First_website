@@ -50,12 +50,14 @@ div.social{
     text-decoration: none;
     color: #4c7f8f;
 }
-
+#moreinfo{
+    background-color:white;
+}
 .portfolio{
     font-family: 'Oxygen',sans-serif;
     margin-top:30px;
     padding-top:10px;
-    background-color: #f8f8fc;
+    background-color: #e9e9ed;
     color: #373738;
 }
 
@@ -71,10 +73,17 @@ div h3.portfolio{
     background-color: #e9e9ed;
     color: #373738;
 }
-
-div.jumbotron.container-fluid {
-    position: relative;
+.florian{
+    font-family:Oxygen, sans-serif;
+    font-size: 12px;
+    letter-spacing:1px;
+    background-color: #e4e4e8;
+    color: #373738;
 }
+
+/*div.jumbotron.container-fluid {*/
+    /*position: relative;*/
+/*}*/
 
 .container-fluid {
     position: relative;
@@ -86,7 +95,9 @@ padding-bottom: 40px;
     margin-top: 30px;
     padding: 30px;
 }
-
+h4 {
+    font-weight: bold;
+}
 img{
     padding: 10px;
 }
