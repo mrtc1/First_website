@@ -23,29 +23,29 @@ div.social{
 }
 
 .navbar-nav li a {
-    color: #57575b !important;
+    color: #57575b;
 }
 
 .navbar-brand {
-    color: #f3f3f8 !important;
+    color: #f3f3f8 ;
 }
 
-}
+
 .navbar-nav li a:hover {
-    color: #2d2d2e !important;
+    color: #2d2d2e ;
 }
 
-.stopka{
+footer{
     background-color: #57575b;
     color: #cad8dd;
 }
 
-.stopka a {
+footer a {
     text-decoration: none;
     color:#5ea7b7;
 }
 
-.stopka a:hover {
+footer a:hover {
     text-decoration: none;
     color: #4c7f8f;
 }
@@ -65,21 +65,25 @@ div h3.portfolio{
     letter-spacing:3px;
 }
 
-.resume{
+.main{
     font-family: 'Oxygen',sans-serif;
     margin-top:30px;
     letter-spacing:2px;
     background-color: #e9e9ed;
     color: #373738;
 }
-.florian{
+.empty{
+    background-color: #e9e9ed;
+    padding-bottom:300px;
+}
+
+.collapse-portfolio {
     font-family:Oxygen, sans-serif;
     font-size: 12px;
     letter-spacing:1px;
     background-color: #e4e4e8;
     color: #373738;
 }
-
 
 .container-fluid {
     position: relative;
@@ -91,9 +95,11 @@ padding-bottom: 40px;
     margin-top: 30px;
     padding: 30px;
 }
+
 h4 {
     font-weight: bold;
 }
+
 img{
     padding: 10px;
 }
